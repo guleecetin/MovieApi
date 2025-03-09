@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4M83SvN8Z/fqihW7q7MagIdD56f68MLI1tU8bq0uLZA=",
+  "Source": "MovieApii.WebApi",
+  "BasePath": "_content/MovieApii.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
