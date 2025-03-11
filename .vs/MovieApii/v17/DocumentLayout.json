@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\MovieApii\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\categoryhandlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\removemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\removemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1121,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +55,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:39:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCategoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:39:51.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:37:37.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\RemoveCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:36:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:35:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\RemoveMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\RemoveMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\RemoveMovieCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\RemoveMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:37:13.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\UpdateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:37:59.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetMovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\GetMovieQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:39:41.954Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -32,10 +169,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -1625,6 +1625,20 @@
           }
         }
       },
+      "MovieApii.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MovieApii.Domain": "1.0.0",
+          "MovieApii.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieApii.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApii.Application.dll": {}
+        }
+      },
       "MovieApii.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -4759,6 +4773,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "MovieApii.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/MovieApii.Application/MovieApii.Application.csproj",
+      "msbuildProject": "../../Core/MovieApii.Application/MovieApii.Application.csproj"
+    },
     "MovieApii.Domain/1.0.0": {
       "type": "project",
       "path": "../../Core/MovieApii.Domain/MovieApii.Domain.csproj",
@@ -4774,6 +4793,7 @@
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.1",
+      "MovieApii.Application >= 1.0.0",
       "MovieApii.Persistence >= 1.0.0"
     ]
   },
@@ -4809,6 +4829,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\MovieApii.Application.csproj": {
+              "projectPath": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\MovieApii.Application.csproj"
+            },
             "C:\\Users\\gulen\\source\\repos\\MovieApii\\Infrastructure\\MovieApii.Persistence\\MovieApii.Persistence.csproj": {
               "projectPath": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Infrastructure\\MovieApii.Persistence\\MovieApii.Persistence.csproj"
             }

@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\MovieApii\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|c:\\users\\gulen\\source\\repos\\movieapii\\core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88DB6B6-040E-4B12-8617-253E135D0EFA}|Core\\MovieApii.Application\\MovieApii.Application.csproj|solutionrelative:core\\movieapii.application\\features\\cqrsdesignpattern\\handlers\\moviehandlers\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1121,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\MovieApii\\Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "RelativeToolTip": "Core\\MovieApii.Application\\Features\\CQRSDesignPattern\\Handlers\\MovieHandlers\\CreateMovieCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:03:05.933Z",
+              "EditorCaption": ""
             }
           ]
         },
