@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApi.Domain", "Core\Mov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApi.Persistence", "Infrastructure\MovieApi.Persistence\MovieApi.Persistence.csproj", "{2BBD4E73-93C2-4AD4-8753-759BE8AC265A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApi.WebApi", "Presentation\MovieApi.WebApi\MovieApi.WebApi.csproj", "{2A5844A0-0C0F-419C-A8D2-1BA44819A104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApi.Application", "Core\MovieApi.Application\MovieApi.Application.csproj", "{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{2BBD4E73-93C2-4AD4-8753-759BE8AC265A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBD4E73-93C2-4AD4-8753-759BE8AC265A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BBD4E73-93C2-4AD4-8753-759BE8AC265A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5844A0-0C0F-419C-A8D2-1BA44819A104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5844A0-0C0F-419C-A8D2-1BA44819A104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5844A0-0C0F-419C-A8D2-1BA44819A104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5844A0-0C0F-419C-A8D2-1BA44819A104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +50,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8DE3B6E9-CFDE-4D47-9453-38DCAC445AE2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2BBD4E73-93C2-4AD4-8753-759BE8AC265A} = {80DF6DC2-1F2D-4B66-A2E7-90B093C95FF6}
+		{2A5844A0-0C0F-419C-A8D2-1BA44819A104} = {82B4DE20-B41F-43E7-937C-7B4D4717162A}
+		{AD2CD9D7-7B9B-471E-AAB4-07E8E7207161} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D67438C-2CBD-44CD-9BCB-30549105D2D1}
